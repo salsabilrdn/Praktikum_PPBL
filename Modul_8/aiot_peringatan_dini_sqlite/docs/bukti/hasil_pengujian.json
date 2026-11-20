@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "device": "emulator-5554",
+  "android": "16",
+  "api": "36",
+  "pid_sebelum": "7472",
+  "pid_sesudah": "8739",
+  "wifi_on": "0",
+  "mobile_data": "0",
+  "rows_before_restart": [
+    {
+      "id": 3,
+      "jenis_sensor": "pergeseran_tanah",
+      "nilai": 4.0,
+      "lokasi_pos": "Pos Bojongsoang",
+      "waktu": 1795189872938
+    },
+    {
+      "id": 1,
+      "jenis_sensor": "ketinggian_air",
+      "nilai": 80.0,
+      "lokasi_pos": "Pos Dayeuhkolot",
+      "waktu": 1795189702592
+    }
+  ],
+  "rows_after_restart": [
+    {
+      "id": 3,
+      "jenis_sensor": "pergeseran_tanah",
+      "nilai": 4.0,
+      "lokasi_pos": "Pos Bojongsoang",
+      "waktu": 1795189872938
+    },
+    {
+      "id": 1,
+      "jenis_sensor": "ketinggian_air",
+      "nilai": 80.0,
+      "lokasi_pos": "Pos Dayeuhkolot",
+      "waktu": 1795189702592
+    }
+  ],
+  "screenshots": [
+    "01_dashboard_awal.png",
+    "02_dashboard_sesudah.png",
+    "03_riwayat_awal.png",
+    "04_dialog_koreksi.png",
+    "05_riwayat_koreksi.png",
+    "06_konfirmasi_hapus.png",
+    "07_riwayat_hapus.png",
+    "08_riwayat_buka_ulang.png"
+  ]
+}
