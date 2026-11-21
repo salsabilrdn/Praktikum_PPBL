@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "version": "empat_tab",
+  "tabs": [
+    "Sensor",
+    "Pantauan",
+    "Riwayat",
+    "Pengaturan"
+  ],
+  "externalNetworkBlocked": true,
+  "restartedBrowser": true,
+  "errors": [],
+  "tests": [
+    "empat tab tetap tersedia",
+    "draf bertahan antar tab",
+    "simpan Pantauan ke Hive",
+    "Sensor dan Riwayat sinkron",
+    "koreksi dan hapus satu catatan",
+    "status reaktif terhadap ambang",
+    "data dan ambang sesudah browser ditutup dan dibuka kembali"
+  ]
+}

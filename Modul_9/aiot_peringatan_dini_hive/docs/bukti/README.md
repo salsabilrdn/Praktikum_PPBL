@@ -1,0 +1,1 @@
+Bukti pengujian aktual Modul 9. Awalan a56_ berasal dari Samsung SM-A566B; chrome_ berasal dari Chrome dengan viewport 440 x 930. Gambar kode berasal dari file proyek, bukan hasil uji aplikasi. Berkas hasil JSON memuat status uji dan PID sebelum/sesudah force-stop.

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "device": "Samsung Galaxy A56 SM-A566B",
+  "android": "16",
+  "package": "com.example.kantin_kampus_modul9",
+  "scope": [
+    "menambah dua favorit",
+    "catatan Tidak pedas tersimpan",
+    "nama Salsabila dan tema gelap tersimpan",
+    "checkout dan pembacaan riwayat SQLite",
+    "hapus Es Teh Manis tanpa menghapus Nasi Goreng",
+    "nama/tema/catatan tetap ada sesudah force-stop dan buka ulang",
+    "Reset pengaturan pada A56 mengosongkan nama dan tema, tetap menyimpan favorit"
+  ],
+  "resetPreferences": "Lulus di A56, Chrome, dan test otomatis.",
+  "evidence": "Screenshot A56 yang utuh serta hasil pemeriksaan teks antarmuka melalui UIAutomator. Transfer screenshot ulang beberapa kali terputus; berkas tidak utuh tidak disertakan."
+}

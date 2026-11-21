@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "device": "Samsung Galaxy A56 SM-A566B",
+  "android": "16",
+  "package": "com.example.aiot_peringatan_dini_hive",
+  "restartPids": {
+    "before": "32695",
+    "after": "6862"
+  },
+  "tests": "CRUD, preferensi, force-stop dan buka ulang"
+}
